@@ -6,9 +6,9 @@ body { background-color: #b89e81;
         background-image: url("image/background.gif");
 }
 header {
-    background-color: #D2B48C;
-    text-align: center;
-    height: 150px; background-image: url("image/javajamlogo.jpg");
+background-color: #D2B48C;
+text-align: center;
+height: 150px; background-image: url("image/javajamlogo.jpg");
 background-repeat: no-repeat;
 }
 h1 {
